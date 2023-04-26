@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header-list {
+  background-color: rgb(25, 124, 25);
+  display: inline;
+}
+
+.buy-list {
+  text-align: left;
+}
+
+.header-options {
+  text-align: right;
+}
