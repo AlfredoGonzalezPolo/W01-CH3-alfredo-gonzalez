@@ -9,6 +9,7 @@ html {
 .header-list {
   background-color: rgb(25, 124, 25);
   display: inline;
+  align-items: center;
 }
 
 .buy-list {
