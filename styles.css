@@ -4,11 +4,14 @@
 
 html {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  flex-wrap: wrap;
+  max-width: 900px;
 }
 
 .header-list {
   background-color: rgb(25, 124, 25);
-  display: inline;
+  display: flex;
+  flex-direction: row;
   align-items: center;
 }
 
@@ -18,4 +21,8 @@ html {
 
 .header-options {
   text-align: right;
+}
+
+.main-container {
+  background-color: rgba(255, 204, 0, 0.937);
 }
